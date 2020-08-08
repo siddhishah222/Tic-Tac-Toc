@@ -1,0 +1,15 @@
+.Board{
+    background-Color:skyblue;
+    margin:10px;
+    padding: 40px;
+}
+
+.board-row{
+    display:flex; 
+    flex-flow:nowrap ;
+}
+
+.status{
+    margin:20px;
+    font-size:24px;
+}
